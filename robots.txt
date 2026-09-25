@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.muyangmcn.cn/sitemap.xml
